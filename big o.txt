@@ -1,0 +1,9 @@
+a: n
+b: n2
+c: n3
+d: n
+e: n2
+f: n2	
+g: log n
+h: !n 
+i: n
