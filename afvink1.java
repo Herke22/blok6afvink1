@@ -12,7 +12,7 @@ public class afvink1 {
             int upperbound = 1000000;
             int int_random = rand.nextInt(upperbound);
             jan[i] = int_random; }
-        quickSort(jan, 0, 99);
+        quickSort(jan, 0, 999999999);
         long endTime = System.nanoTime();
         long duration = (endTime - startTime);
         System.out.println(duration);
